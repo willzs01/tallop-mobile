@@ -7,6 +7,14 @@
       "output": "static",
       "bundler": "metro"
     },
+    "ios": {
+      "supportsTablet": true,
+      "package": "com.desktoys.tallop"
+    },
+    "android": {
+      
+      "package": "com.desktoys.tallop"
+    },
     "plugins": [
       [
         "expo-router",
